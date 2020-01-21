@@ -1,0 +1,57 @@
+em{
+    font-variant: small-caps;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+h2{
+    color: white;
+    text-shadow: 0 0 5px red;
+}
+
+body{
+    text-align: center;
+}
+
+.part1{
+    color: red;
+}
+
+.part2{
+    color: blue;
+}
+
+.part3{
+    color: green;
+}
+
+strong{
+    color: black;
+}
+
+.menu>a{
+    font-variant: small-caps;
+    color: blue;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+.menu>a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.menu>a:visited{
+    color: green;
+}
+
+img{
+    border-radius: 50px;
+    margin: 5px;
+    background-color: grey;
+    box-shadow: 5px solid grey;
+    border: 2px solid red;
+}
